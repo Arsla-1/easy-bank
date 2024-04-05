@@ -5,7 +5,7 @@
 .overlay {
   background: #000;
   opacity: 0.4;
-  position: absolute;
+  position: fixed;
   left: 0;
   right: 0;
   top: 0;
